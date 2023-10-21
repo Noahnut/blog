@@ -50,4 +50,4 @@ Time Series Database 在以下場景都可以發揮他的功用
 
 ### 結論
 
-Time Series Database 在跟時間有關的資料下都會是一個不錯的解決方法，再日後考慮 Database 時除了，關聯式資料庫又多了一個選擇。
+Time Series Database 在跟時間有關的資料下都會是一個不錯的解決方法，再日後考慮 Database 時除了關聯式資料庫又多了一個選擇。
