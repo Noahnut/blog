@@ -8,7 +8,7 @@ date: 2023-11-16 00:09:23
 
 ## 介紹
 
-MapReduce 是 Google 所提出的一個 Programming Model，目標是要實現簡單的介面讓工程師就能夠將複雜的將大量資料分散到不同機器運算。
+MapReduce 是 Google 所提出的一個 Programming Model，目標是要實現簡單的介面讓工程師就能夠將大量資料分散到不同機器運算。
 MapReduce 其實就是利用 Divide and Conquer 的概念將大資料切分成小資料後再分別處理後在合再一起，透過這樣的方式可以讓這些被切分的小資料能夠被分散到不同機器上執行。
 
 ## MapReduce 的 Programming Model
