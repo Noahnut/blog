@@ -39,7 +39,7 @@ tags: golang
 
 ### mheap
 
-`mheap` 管理 `mcentral` 與由 `arenas` 所管理的目前空閒的 `page`  
+`mheap` 管理 `mcentral` 與由 `arenas` 所管理的目前空閒的 `page`。  
 
 ### 小物件分配
 
